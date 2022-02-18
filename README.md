@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning WebGL
 - 👯 I’m looking to collaborate on Web and Mobile projects
 
-- 📫 How to reach me: https://odeydev.netlify.app/, https://www.instagram.com/hup.dev/, https://www.linkedin.com/in/patrick-odey-joseph-2406951a9/
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Don't trust a Developer who likes white themes
+
+Check out my portfolio: https://odeydev.netlify.app/ 
