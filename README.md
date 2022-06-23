@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: Don't trust a Developer who likes white themes
 
-Check out my portfolio: https://odeydev.netlify.app/ 
+Check out my portfolio: https://patrickodey.com/ 
