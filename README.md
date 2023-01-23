@@ -1,6 +1,6 @@
 ### Hey, I'm Patrick Odey 👋
 
-I'm a Full-Stack Web Developer and Mobile App Developer, my major stack for Web Dev is Node.Js(express.js) and Vue.js while for mobile developement I use Flutter.
+I'm a Full-Stack Web Developer, my major stack for Web Dev is Node.Js(express.js) and Vue.js.
 
 Here are some ideas to get you started:
 
